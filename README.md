@@ -132,7 +132,7 @@ Lastly, I decided to study the connections between heart disease, smoking, and B
 As shown in the visual representation, _among people afflicted by heart disease, over 50% have or had a smoking habit_. _The tendency is the opposite for individuals, who do not suffer from heart disease_. The majority of them do not smoke. _This proves a robust correlation between smoking habits and heart disease_.
 _The link between heart disease and BMI is extremely weak_, although it indicates that the _higher BMI is associated with a higher risk of heart disease_. Considering the chart, illustrating the relation between general health and BMI, _the lower BMI, the better overall well-being_.
 And the last bar chart illustrates a correlation between individuals afflicted by heart disease and those who remain unaffected. This visualization is useful for figuring out the proportion between them.
-# Conclusion
+## The Analysis Conclusion
 ____
 Having conducted a thorough analysis of the dataset, I can conclude that out of all variables, the most controversial is alcohol consumption. An infinite number of scientific papers prove the negative effects of alcohol on an individual’s health, but it is the opposite in this dataset because of the strong connection with another crucial variable “exercise”. When developing the machine learning model, I will include and exclude alcohol consumption variables to calculate the accuracy.
 # Cardiovascular Disease Risk Prediction
