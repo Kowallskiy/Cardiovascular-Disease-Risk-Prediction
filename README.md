@@ -2,6 +2,7 @@
 ____
 
 The purpose of this analysis is to perform feature selection from the dataset. Identifying columns that directly influence machine learning results is key to achieving an optimized dataset and improved model performance. To start the analysis, I had to understand the shape of this dataset, identify columns containing categorical variables, and find the number of missing values.
+
 ```Python
 print(disease_data.shape)
 print(disease_data.isnull().any())
